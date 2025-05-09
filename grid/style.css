@@ -1,0 +1,9 @@
+.logo{
+	margin-left: 20px;
+	background: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0) 0%,    /* شروع شفاف */
+        rgba(152, 62, 62, 0.7) 50%, /* وسط green-300 با شفافیت */
+        rgba(255, 0, 0, 0.9) 100%  /* پایان green-800 با شفافیت */
+      );
+}
